@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 from discord.utils import get
 
-TOKEN = ""
+TOKEN = "TOKEN GOES HERE"
 BOT_PREFIX = "+"
 
 client = Bot(command_prefix=BOT_PREFIX)
