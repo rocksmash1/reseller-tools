@@ -28,4 +28,4 @@ Requirements:
 Python 3.6.5 or greater
 discord.py v0.16.12
 
-P.S Some of this code (especially the calculations) are messy. This was an old script I had made a little bit back. Just trying to give a basic example of whaat a discord bot using the api wrapper looks like. Enjoy!
+P.S Some of this code (especially the calculations) are messy. This was an old script I had made a little bit back. Just trying to give a basic example of what a discord bot using the api wrapper looks like. Enjoy!
